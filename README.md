@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-TeleNova Communications is facing **ARPU stagnation**, **increasing churn**, and **inefficient plan performance** despite steady subscriber growth. This project analyses **revenue**, **data usage**, **market share**, and **churn behaviour** using cleaned telecom datasets. SQL-driven analysis was performed to identify **high-value circles**, **underutilised plans**, **revenue leakage**, and **competitor-driven churn**, enabling data-backed strategic decisions. **This project is a data analysis project for the telecom industry.**
+TeleNova Communications is facing **ARPU stagnation**, **increasing churn**, and **inefficient plan performance** despite steady subscriber growth. This project analyses **revenue**, **data usage**, **market share**, and **churn behaviour** using cleaned telecom datasets. SQL-driven analysis was performed to identify **high-value circles**, **underutilised plans**, **revenue leakage**, and **competitor-driven churn**, enabling data-backed strategic decisions. **This is a data analysis project for the telecom industry.**
 
 ## Business Problem 
 
