@@ -1,4 +1,4 @@
-# Telecom Data Analysis- TeleNova Communications
+#  TeleNova Communications- Telecom Industry Data Analysis
 
 ## Executive Summary
 
