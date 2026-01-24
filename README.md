@@ -23,17 +23,17 @@ The dataset contains **298,694 rows** and **67 columns** in total (excluding the
 
 ### Dataset Overview
 
-| Dataset Name    | Description                                                                                           |
-| --------------- | --------------------------------------------------------------------------------------------------    |
-| cities          | Contains **telecom circle** and **city-level information** used for regional analysis                 |
-| customer_status | Stores **customer lifecycle status** such as Active and Churned, along with **competitor details**    |
-| customers       | Customer-level attributes including **customer type**, **user segment**, and demographics             |
-| daily_usage     | High-volume table capturing **daily data consumption (MB)** per customer                              |
-| date            | Calendar reference table used for **month and time-based joins**                                      |
-| market_share    | Monthly **market share percentage** by telecom circle                                                 |
-| metrics_list    | Defines **business metrics**, **calculation logic**, and **interpretation rules** used across queries |
-| plan            | Plan metadata including **plan category**, **data allowance**, and pricing attributes                 |
-| plan_revenue    | Revenue-focused table containing **net revenue (INR)**, **discounts**, and **refund amounts**         |
+| Dataset Name       | Description                                                                                           |
+| ---------------    | --------------------------------------------------------------------------------------------------    |
+| TI-cities          | Contains **telecom circle** and **city-level information** used for regional analysis                 |
+| TI-customer_status | Stores **customer lifecycle status** such as Active and Churned, along with **competitor details**    |
+| TI-customers       | Customer-level attributes including **customer type**, **user segment**, and demographics             |
+| TI-daily_usage     | High-volume table capturing **daily data consumption (MB)** per customer                              |
+| TI-date            | Calendar reference table used for **month and time-based joins**                                      |
+| TI-market_share    | Monthly **market share percentage** by telecom circle                                                 |
+| TI-metrics_list    | Defines **business metrics**, **calculation logic**, and **interpretation rules** used across queries |
+| TI-plan            | Plan metadata including **plan category**, **data allowance**, and pricing attributes                 |
+| TI-plan_revenue    | Revenue-focused table containing **net revenue (INR)**, **discounts**, and **refund amounts**         |
 
 
 ## Key Results & Insights
