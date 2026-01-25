@@ -47,7 +47,7 @@ The dataset contains **298,694 rows** and **67 columns** in total (excluding the
 7. Discounts and refunds result in **significant revenue leakage** for specific customer types.
 
 
-## Results & Business Recommendations
+## Business Recommendations
 
 1. Reprice or redesign **low-utilisation plans** to reduce cost pressure
 2. Introduce **circle-specific pricing strategies** for high-ARPU regions
