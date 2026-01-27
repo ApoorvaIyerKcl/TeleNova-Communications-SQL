@@ -56,7 +56,7 @@ The dataset contains **298,694 rows** and **67 columns** in total (excluding the
 5. Tighten **discount and refund governance** to control revenue leakage
 6. Sunset or restructure **operationally unsustainable plans**
 
-# Next Steps
+## Next Steps
 
 1. Add **time-based trend analysis** for ARPU, churn, and usage
 2. Integrate insights into **Power BI dashboards** for leadership reporting
